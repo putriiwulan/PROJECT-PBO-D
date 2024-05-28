@@ -10,7 +10,9 @@ namespace PROJECT_PBO_D
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("First Commit");
+            Console.WriteLine("first commit");
         }
     }
 }
+
+
